@@ -40,6 +40,7 @@ You can get it on npm.
 
 ```bash
 npm install chii -g
+npm install build
 ```
 
 ## Usage
